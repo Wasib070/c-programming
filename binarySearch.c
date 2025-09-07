@@ -5,7 +5,7 @@ int main(){
     scanf("%d",&n);
     for (i = 0; i < n; i++)
     {
-        printf("Enter element at index %d\n",i);
+          printf("Enter element in increasing order at index %d\n",i);
         scanf("%d",&a[i]);
     }
     printf("Enter the value to search:\n");
@@ -38,4 +38,5 @@ int main(){
     
     
     
+
 }
